@@ -1,0 +1,27 @@
+ [
+		{
+			"name": "Phil Aylesworth",
+			"position": "Vice President of Accounting",
+			"bio": "With over 15 years of public accounting and business advisory service experience in the Tongas, Ecuador, Canada, Botswana and the US, Phil is the most seasoned and diversed member of the XY Corp. team."
+		},
+		{
+			"name": "Darren Takaki",
+			"position": "Director of Development",
+			"bio": "Darren is the Director of Development for XY Corp. Darren creates learning materials for XY Corp. as well as consulting for customers to integrate Solutions into their production pipeline and business processes."
+		},
+		{
+			"name": "Andrew Steele",
+			"position": "Director of Human Resources",
+			"bio": "Andrew joined XY Corp. in October 1999 as XY Corp's first Human Resources Director. As such, he has overall human resources responsibility for XY Corp's operations worldwide."
+		},
+		{
+			"name": "Mike Girimonte",
+			"position": "Vice President of Sales and Marketing",
+			"bio": "Mike serves as the Vice President of Sales and Marketing for XY Corp. In this role Mike oversees XY Corp's marketing and corporate communications efforts worldwide."
+		},
+		{
+			"name": "Brayden Robert",
+			"position": "Head of Animation",
+			"bio": "Brayden serves as the Head of Animation for E Corp. The role specilizes in making eye catching animations to attract customers worldwide."
+		}
+	]
