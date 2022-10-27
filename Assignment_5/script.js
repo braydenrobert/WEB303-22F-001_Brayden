@@ -4,10 +4,10 @@
 
 $(document).ready(function () {
   const item = {
-    id: 1,
+    id: 0,
     name: "SUPER PEOPLE",
     description:
-      "battle royale game developed by South Korean studio Wonder People, and published by Wonder Games.",
+      "Battle Royale game developed by South Korean studio Wonder People, and published by Wonder Games.",
     genre: "Battle Royale"
   };
 
@@ -20,19 +20,19 @@ $(document).ready(function () {
 
   $("#content-item-list").append(contentItem.toString());
 
-  const characters = [
+  const classes = [
     "Gatling Soldier",
-    "Gas Soldier",
-    "Nuclear",
-    "Shotgun Master",
-    "Strike Force"
+    " Gas Soldier",
+    " Nuclear",
+    " Shotgun Master",
+    " Strike Force"
   ];
 
-  $("#content-item-list").append(characters.toString());
+  $("#content-item-list").append(classes.toString());
 
-  $("content-item-wrapper").css("border", "1px solid black");
-  $("content-item-wrapper").css("border-width", "1px");
-  $("content-item-wrapper").css("padding", "25px 50px 75px 100px");
+  $(".content-item-wrapper").css("border", "1px solid black");
+  $(".content-item-wrapper").css("border-width", "1px");
+  $(".content-item-wrapper").css("padding", "25px 50px 75px 100px");
 });
 
 class ContentItem {
@@ -49,6 +49,7 @@ class ContentItem {
       this.genre = genre;
     }
   }
+
   toString() {
     return `
   <div class="content-item-wrapper" id="content-item-${this.id}">
@@ -59,3 +60,4 @@ class ContentItem {
   `;
   }
 }
+
