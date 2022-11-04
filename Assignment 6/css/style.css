@@ -1,0 +1,53 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.accordion-control  {
+	background-color: #98a0b1;
+	border: none;
+	color: #05141c;
+	padding: 10px;
+	width: 50%;
+	text-align: center;
+	font-size: 15px;
+}
+
+.accordion-panel {
+	display: none;
+}
+
+.tab-list {
+	background-color: #f1f1f1;
+}
+
+.tab-list {
+	background-color: #98a0b1;
+	float: left;
+	border: none;
+	padding: 14px 16px;
+	font-size: 15px;
+}
+
+.tab-list {
+	padding: 6px 12px;
+	border: 1px solid #ccc;
+	border-top: none;
+	width: 50%;
+}
+
+.tab-panel {
+	display: none;
+}
+
+.tab-panel.active {
+	display: block;
+}
+
+li {
+	list-style-type: none;
+}
+
+p {
+	width: 50%;
+}
