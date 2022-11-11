@@ -1,0 +1,24 @@
+.tabs {
+	list-style: none;
+	margin: 0;
+	padding: 8px;
+	display: flex;
+	gap: 8px;
+}
+.tabs > .tab-switcher {
+	padding: 8px;
+	background-color: #646464;
+	font-size: 20px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.tabs > .tab-switcher.active {
+	background: #00a996;
+}
+
+.tab-container {
+	background-color: #646464;
+	margin-left: 8px;
+	padding: 8px;
+	border-radius: 4px;
+}

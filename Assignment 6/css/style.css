@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	background-color: #000;
+	color: #fff;
+	font-family: sans-serif;
+	padding: 24px;
+}
+
+main {
+	max-width: 720px;
+	margin: 0 auto;
+}
+
+#introduction {
+	display: flex;
+}
+
+#introduction .image {
+	width: 240px;
+	margin-left: 24px;
+	border-radius: 4px;
+}
