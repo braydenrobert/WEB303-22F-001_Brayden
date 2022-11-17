@@ -1,0 +1,51 @@
+[
+	{
+		"firstName": "Rick",
+		"lastName": "Sanchez",
+		"voicedBy": "Justin Roiland",
+		"firstAppearance": "Pilot",
+		"characterType": "Main"
+	},
+	{
+		"firstName": "Morty",
+		"lastName": "Smith",
+		"voicedBy": "Justin Roiland",
+		"firstAppearance": "Pilot",
+		"characterType": "Main"
+	},
+	{
+		"firstName": "Jerry",
+		"lastName": "Smith",
+		"voicedBy": "Chris Parnell",
+		"firstAppearance": "Mortynight Run",
+		"characterType": "Main"
+	},
+	{
+		"firstName": "Summer",
+		"lastName": "Smith",
+		"voicedBy": "Spencer Grammer",
+		"firstAppearance": "Rick Potion",
+		"characterType": "Main"
+	},
+	{
+		"firstName": "Beth",
+		"lastName": "Smith",
+		"voicedBy": "Sarah Chalke",
+		"firstAppearance": "Rick Potion",
+		"characterType": "Main"
+	},
+	{
+		"firstName": "Tammy",
+		"lastName": "Gueterman",
+		"voicedBy": "Cassie Steele",
+		"firstAppearance": "Meeseeks and Destroy",
+		"characterType": "Guest"
+	},
+	{
+		"firstName": "Tricia",
+		"lastName": "Lange",
+		"voicedBy": "Cassie Steele",
+		"firstAppearance": "The Whirly Dirly Conspiracy",
+		"characterType": "Guest"
+	}
+]
