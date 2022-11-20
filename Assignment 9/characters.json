@@ -1,0 +1,58 @@
+[
+	{
+		"firstName": "Rick",
+		"lastName": "Sanchez",
+		"voicedBy": "Justin Roiland",
+		"firstAppearance": "Pilot",
+		"characterType": "Main",
+		"dateOfBirth": "1995-04-01"
+	},
+	{
+		"firstName": "Morty",
+		"lastName": "Smith",
+		"voicedBy": "Justin Roiland",
+		"firstAppearance": "Pilot",
+		"characterType": "Main",
+		"dateOfBirth": "1992-02-15"
+	},
+	{
+		"firstName": "Jerry",
+		"lastName": "Smith",
+		"voicedBy": "Chris Parnell",
+		"firstAppearance": "Mortynight Run",
+		"characterType": "Main",
+		"dateOfBirth": "1985-11-18"
+	},
+	{
+		"firstName": "Summer",
+		"lastName": "Smith",
+		"voicedBy": "Spencer Grammer",
+		"firstAppearance": "Rick Potion",
+		"characterType": "Main",
+		"dateOfBirth": "1987-05-12"
+	},
+	{
+		"firstName": "Beth",
+		"lastName": "Smith",
+		"voicedBy": "Sarah Chalke",
+		"firstAppearance": "Rick Potion",
+		"characterType": "Main",
+		"dateOfBirth": "2001-07-05"
+	},
+	{
+		"firstName": "Tammy",
+		"lastName": "Gueterman",
+		"voicedBy": "Cassie Steele",
+		"firstAppearance": "Meeseeks and Destroy",
+		"characterType": "Guest",
+		"dateOfBirth": "2005-06-04"
+	},
+	{
+		"firstName": "Tricia",
+		"lastName": "Lange",
+		"voicedBy": "Cassie Steele",
+		"firstAppearance": "The Whirly Dirly Conspiracy",
+		"characterType": "Guest",
+		"dateOfBirth": "1999-08-24"
+	}
+]
